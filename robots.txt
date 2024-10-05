@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://caqirr.github.io/RFy/sitemap.RFy.gz
